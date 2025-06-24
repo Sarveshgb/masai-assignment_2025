@@ -1,0 +1,22 @@
+body {
+  background-color: #d3d3d3; /* light gray background */
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: navy;
+}
+
+h2 {
+  color: darkred;
+}
+
+.blue-paragraph {
+  color: blue;
+  font-size: 20px;
+}
+
+.green-paragraph {
+  color: green;
+  font-size: 18px;
+}
